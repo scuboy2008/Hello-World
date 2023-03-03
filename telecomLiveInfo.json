@@ -34,5 +34,14 @@
         "nickname":"电信强哥",
         "period":2,
         "start_time":"2023-03-03 19:00:00"
+    },
+        "liveRoom4":{
+        "anchorId":"4253",
+        "avator":"https://xbk.189.cn/dximg/htimg/fLWchiwch9J5kQOWEFdHraQfMemvRDWy87R3HcuI.png",
+        "liveId":4779,
+        "liveStatus":"reser",
+        "nickname":"电信强哥",
+        "period":11,
+        "start_time":"2023-03-03 10:50:00"
     }
 }
